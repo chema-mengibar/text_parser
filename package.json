@@ -1,0 +1,29 @@
+{
+  "name": "text_parser",
+  "version": "1.0.0",
+  "homepage": "www.motuo.info/blog",
+  "author": "motuo",
+  "scripts": {
+    "parser": "node tools/parser_001.js",
+    "regexp": "node tools/regexp_001.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "description": "Text Parser Project with Esprima tokenizer and Regexp",
+  "main": "",
+  "keywords": [],
+  "dependencies": {
+    "esprima": "^4.0.0",
+    "file-contents": "^1.0.1",
+    "htmlparser2": "^3.9.2",
+    "js-beautify": "^1.7.3",
+    "through2": "^2.0.3",
+    "write": "^1.0.3",
+    "write-json-file": "^2.2.0",
+    "xml2js": "^0.4.17"
+  },
+  "custom": {}
+}

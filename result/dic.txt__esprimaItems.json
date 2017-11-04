@@ -1,0 +1,100 @@
+{
+	"contentElements": [
+		{
+			"type": "Identifier",
+			"value": "Zeit"
+		},
+		{
+			"type": "Identifier",
+			"value": "Substantiv"
+		},
+		{
+			"type": "Punctuator",
+			"value": "["
+		},
+		{
+			"type": "Identifier",
+			"value": "die"
+		},
+		{
+			"type": "Punctuator",
+			"value": "]"
+		},
+		{
+			"type": "Numeric",
+			"value": "1."
+		},
+		{
+			"type": "Identifier",
+			"value": "Stunden"
+		},
+		{
+			"type": "Punctuator",
+			"value": ","
+		},
+		{
+			"type": "Identifier",
+			"value": "Tage"
+		},
+		{
+			"type": "Punctuator",
+			"value": ","
+		},
+		{
+			"type": "Identifier",
+			"value": "Wochen"
+		},
+		{
+			"type": "Identifier",
+			"value": "usw"
+		},
+		{
+			"type": "Punctuator",
+			"value": "."
+		},
+		{
+			"type": "Punctuator",
+			"value": ","
+		},
+		{
+			"type": "Identifier",
+			"value": "die"
+		},
+		{
+			"type": "Identifier",
+			"value": "jmdn"
+		},
+		{
+			"type": "Punctuator",
+			"value": "."
+		},
+		{
+			"type": "Identifier",
+			"value": "für"
+		},
+		{
+			"type": "Identifier",
+			"value": "etwas"
+		},
+		{
+			"type": "Identifier",
+			"value": "zur"
+		},
+		{
+			"type": "Identifier",
+			"value": "Verfügung"
+		},
+		{
+			"type": "Identifier",
+			"value": "stehen"
+		},
+		{
+			"type": "Punctuator",
+			"value": "."
+		},
+		{
+			"type": "String",
+			"value": "'Ich habe überhaupt keine Zeit jetzt.'"
+		}
+	]
+}
