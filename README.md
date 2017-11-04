@@ -6,7 +6,7 @@ The parser script reads the file from the "target" folder, process the file cont
 
 # Methods:
 
-## Exprima
+## Esprima
 This method use Esprima tokenizer to get the content items. Then an analizer will extract the selected content blocks.
 ### Run:
 npm run parser
