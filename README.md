@@ -34,8 +34,10 @@ node ./tools/regexp_001.js
 ```
 
 ## More Infos:
-http://motuo.info/blog/#!/blog/post/85
+[Motuo blog](http://motuo.info/blog/#!/blog/post/85)
 
 # To do:
-This is a test with simple text. The next part will be a Javascript Parser, to implemnting other projects:
-https://github.com/eslint/espree
+* Implement other projects to parse Java Script, Angular. 
+  https://github.com/eslint/espree
+
+* Visualization of relationships: Search relations in founded elements to generate graphs and visualizations
