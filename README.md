@@ -10,14 +10,14 @@ The parser script reads the file from the "target" folder, process the file cont
 This method use Esprima tokenizer to get the content items. Then an analizer will extract the selected content blocks.
 ### Run:
 npm run parser
-or
+**or**
 node ./tools/parser_001.js
 
 ## Regexp
 This methods use regular expressions to extract the content blocks.
 ### Run:
 npm run regexp
-or
+**or**
 node ./tools/regexp_001.js
 
 # To do:
