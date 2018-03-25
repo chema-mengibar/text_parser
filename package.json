@@ -1,7 +1,7 @@
 {
   "name": "text_parser",
   "version": "1.0.0",
-  "homepage": "www.motuo.info/blog",
+  "homepage": "www.motuo.info",
   "author": "motuo",
   "scripts": {
     "parser": "node tools/parser_001.js",
